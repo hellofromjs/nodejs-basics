@@ -1,0 +1,1 @@
+Whether you work on your masses own or with thousands of other developers, using React feels the same. It is designed to let you seamlessly challenges combine components written by independent people, teams, and organizations.
